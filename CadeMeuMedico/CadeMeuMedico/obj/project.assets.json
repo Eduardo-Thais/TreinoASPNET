@@ -7610,11 +7610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Masterlink254\\Documents\\GitHub\\Treino-ASPNET\\CadeMeuMedico\\CadeMeuMedico\\CadeMeuMedico.csproj",
+      "projectUniqueName": "C:\\Users\\Masterlink254\\Documents\\GitHub\\Treino-ASPNET\\TreinoASPNET\\CadeMeuMedico\\CadeMeuMedico\\CadeMeuMedico.csproj",
       "projectName": "CadeMeuMedico",
-      "projectPath": "C:\\Users\\Masterlink254\\Documents\\GitHub\\Treino-ASPNET\\CadeMeuMedico\\CadeMeuMedico\\CadeMeuMedico.csproj",
+      "projectPath": "C:\\Users\\Masterlink254\\Documents\\GitHub\\Treino-ASPNET\\TreinoASPNET\\CadeMeuMedico\\CadeMeuMedico\\CadeMeuMedico.csproj",
       "packagesPath": "C:\\Users\\Masterlink254\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Masterlink254\\Documents\\GitHub\\Treino-ASPNET\\CadeMeuMedico\\CadeMeuMedico\\obj\\",
+      "outputPath": "C:\\Users\\Masterlink254\\Documents\\GitHub\\Treino-ASPNET\\TreinoASPNET\\CadeMeuMedico\\CadeMeuMedico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
