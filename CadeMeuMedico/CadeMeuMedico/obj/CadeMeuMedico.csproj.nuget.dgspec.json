@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Masterlink254\\Documents\\GitHub\\Treino-ASPNET\\TreinoASPNET\\CadeMeuMedico\\CadeMeuMedico\\CadeMeuMedico.csproj": {}
+    "C:\\Users\\Eduardo\\Documents\\GitHub\\CadeMeuMedico\\CadeMeuMedico\\CadeMeuMedico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Masterlink254\\Documents\\GitHub\\Treino-ASPNET\\TreinoASPNET\\CadeMeuMedico\\CadeMeuMedico\\CadeMeuMedico.csproj": {
+    "C:\\Users\\Eduardo\\Documents\\GitHub\\CadeMeuMedico\\CadeMeuMedico\\CadeMeuMedico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Masterlink254\\Documents\\GitHub\\Treino-ASPNET\\TreinoASPNET\\CadeMeuMedico\\CadeMeuMedico\\CadeMeuMedico.csproj",
+        "projectUniqueName": "C:\\Users\\Eduardo\\Documents\\GitHub\\CadeMeuMedico\\CadeMeuMedico\\CadeMeuMedico.csproj",
         "projectName": "CadeMeuMedico",
-        "projectPath": "C:\\Users\\Masterlink254\\Documents\\GitHub\\Treino-ASPNET\\TreinoASPNET\\CadeMeuMedico\\CadeMeuMedico\\CadeMeuMedico.csproj",
-        "packagesPath": "C:\\Users\\Masterlink254\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Masterlink254\\Documents\\GitHub\\Treino-ASPNET\\TreinoASPNET\\CadeMeuMedico\\CadeMeuMedico\\obj\\",
+        "projectPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\CadeMeuMedico\\CadeMeuMedico\\CadeMeuMedico.csproj",
+        "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\CadeMeuMedico\\CadeMeuMedico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Masterlink254\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -91,12 +94,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.13, 5.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -105,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

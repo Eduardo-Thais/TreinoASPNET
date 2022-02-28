@@ -5,6 +5,10 @@ namespace CadeMeuMedico.Data
 {
     public class MedicosContext : DbContext
     {
+        public MedicosContext()
+        {
+        }
+
         public MedicosContext(DbContextOptions<MedicosContext> options) : base(options)
         {
 
